@@ -4,6 +4,9 @@ This project implements a local chatbot using Retrieval-Augmented Generation (RA
 
 Ideal for developers, researchers looking to implement a customizable, privacy-focused chatbot solution with the power of large language models and the flexibility of local deployment.
 
+![demo](https://github.com/user-attachments/assets/de95e5f0-78ab-41fa-9b21-f845ee69bbb5)
+
+
 ## Table of Contents
 
 - [Chatbot API](#chatbot-api)
@@ -77,8 +80,8 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/doanhat/local-chatbot-with-rag.git
-   cd local-chatbot-with-rag
+   git clone https://github.com/doanhat/local-chatbot-with-rag-with-fastapi-ollama-react-faiss-postgres.git
+   cd local-chatbot-with-rag-with-fastapi-ollama-react-faiss-postgres
    ```
 
 2. Set up and start the infrastructure:

@@ -21,7 +21,7 @@ This repository contains the infrastructure setup for a chatbot application usin
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/doanhat/local-chatbot-with-rag.git
+   git clone https://github.com/doanhat/local-chatbot-with-rag-with-fastapi-ollama-react-faiss-postgres.git
    cd chatbot-infrastructure
    ```
 

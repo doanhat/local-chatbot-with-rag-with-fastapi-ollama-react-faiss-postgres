@@ -35,8 +35,8 @@ This folder implements a local chatbot using Retrieval-Augmented Generation (RAG
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/doanhat/local-chatbot-with-rag.git
-   cd local-chatbot-with-rag/chatbot-api
+   git clone https://github.com/doanhat/local-chatbot-with-rag-with-fastapi-ollama-react-faiss-postgres.git
+   cd local-chatbot-with-rag-with-fastapi-ollama-react-faiss-postgres/chatbot-api
    ```
 
 2. Install dependencies:

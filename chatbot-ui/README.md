@@ -20,8 +20,8 @@ This is the frontend application for the Local Chatbot with RAG project. It prov
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/local-chatbot-with-rag.git
-   cd local-chatbot-with-rag/chatbot-ui
+   git clone https://github.com/doanhat/local-chatbot-with-rag-with-fastapi-ollama-react-faiss-postgres.git
+   cd local-chatbot-with-rag-with-fastapi-ollama-react-faiss-postgres/chatbot-ui
    ```
 
 2. Install dependencies:
